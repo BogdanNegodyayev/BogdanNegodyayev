@@ -64,4 +64,4 @@ Projects will be added here as they are completed.
 
 📍 Astana, Kazakhstan
 
-Open to Remote Opportunities.
+Open to Remote Opportunities and International Relocation.
