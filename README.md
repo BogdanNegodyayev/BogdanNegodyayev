@@ -1,6 +1,6 @@
 # Hi, I'm Bogdan 👋
 
-Technical Support & Implementation Specialist from Kazakhstan.
+Technical Support & Implementation Specialist based in Kazakhstan.
 
 I specialize in GPS monitoring, workflow automation, API integrations, and self-hosted infrastructure.
 
